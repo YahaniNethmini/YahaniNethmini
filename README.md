@@ -16,8 +16,6 @@
 
 - 🌱 I’m currently learning **fullstack development.**
 
-- 💬 Ask me about **tynperera@gmail.com**
-
 - 📫 How to reach me **tynperera@gmail.com**
 ---
 <h3 align="center">Connect with me:</h3>
