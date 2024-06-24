@@ -25,6 +25,7 @@
 <a href="https://dribbble.com/yahani_nethmini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="yahani_nethmini" height="30" width="40" /></a>
 <a href="https://www.behance.net/yahaniperera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="yahaniperera" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tynperera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tynperera" height="30" width="40" /></a>
+ <a href="https://discord.gg/yahaninethmini_72914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yahaninethmini_72914" height="30" width="40" /></a>
 </p>
 
 ---
