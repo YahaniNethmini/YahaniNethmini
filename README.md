@@ -109,6 +109,7 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank">
     <img alt="Adobe XD" src="https://img.shields.io/badge/XD-%23FF69B4.svg?logo=adobe-xd&logoColor=white">
 </a>
+<a href="https://trello.com" target="_blank"><img alt="Trello" src="https://img.shields.io/badge/Trello-%2300BFFF.svg?logo=trello&logoColor=white"></a>
 
 <br> 
 
