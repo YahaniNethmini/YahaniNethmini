@@ -14,7 +14,7 @@
 
 - 👩‍🎓 I’m currently following my **BSc(Hons) in Information Systems at Sabaragamuwa University of Sri Lanka.**
 
-- 🌱 I’m currently learning **fullstack development.**
+- 🌱 I’m currently learning **laravel.**
 
 - 📫 How to reach me **tynperera@gmail.com**
 ---
